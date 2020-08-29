@@ -84,3 +84,5 @@ print('----------------------')
 print(students_with_final_score)
 for s in students_with_final_score:
     print(f'{s["name"]} - {s["final_score"]}')
+
+    
